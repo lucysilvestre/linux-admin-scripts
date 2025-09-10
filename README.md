@@ -1,4 +1,5 @@
 # linux-admin-scripts
+![CI](https://github.com/lucysilvestre/linux-admin-scripts/actions/workflows/ci.yml/badge.svg)
 Linux administration scripts and runbooks (backup, monitoring, maintenance, and networking).
 
 ## Why
