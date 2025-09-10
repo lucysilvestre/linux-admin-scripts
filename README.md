@@ -50,3 +50,20 @@ SRC=/etc DEST=/tmp/backups scripts/backup/backup_dir_rsync.sh
 
 # create a local user with safe defaults
 sudo scripts/users/create_local_user.sh demo-user
+
+## Requirements
+- Bash 4+
+- Linux environment...
+
+## Contributing
+- Pull requests welcome!
+- Follow these steps:
+- Run make lint before committing.
+- Document your script (header with usage, exit codes, notes).
+- Keep it safe & idempotent.
+- See CONTRIBUTING.md for details.
+
+## Security
+- Never commit secrets, keys, or sensitive data
+- Use placeholders (e.g., EXAMPLE.DOMAIN, 192.0.2.10) for demos
+- Review SECURITY.md for disclosure policy
