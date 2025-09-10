@@ -1,0 +1,13 @@
+# Editors
+*.swp
+*.swo
+.DS_Store
+
+# Archives
+*.tgz
+*.tar.gz
+*.zip
+
+# Local outputs
+/tmp/*
+backups/*
