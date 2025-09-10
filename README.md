@@ -11,12 +11,12 @@ A curated collection of scripts that reflect real-world sysadmin tasks, followin
 System administrators constantly repeat similar tasks: creating users, rotating logs, checking disk space, verifying connectivity, etc.  
 This repository centralizes those scripts into a reusable toolkit that is:
 
-- ✅ **Practical** – tested in real environments (RHEL, Oracle Linux, CentOS, Ubuntu)  
-- 🛠️ **Idempotent** – safe to run multiple times without breaking things  
-- 🔒 **Secure** – never stores secrets, encourages least privilege  
-- 📚 **Documented** – each script includes usage, exit codes, and prerequisites  
+-  **Practical** – tested in real environments (RHEL, Oracle Linux, CentOS, Ubuntu)  
+-  **Idempotent** – safe to run multiple times without breaking things  
+-  **Secure** – never stores secrets, encourages least privilege  
+-  **Documented** – each script includes usage, exit codes, and prerequisites  
 
-Perfect as a reference for job interviews, labs, and day-to-day Linux administration.
+Perfect as a reference for day-to-day Linux administration.
 
 ---
 
