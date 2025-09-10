@@ -1,5 +1,7 @@
 # linux-admin-scripts
 ![CI](https://github.com/lucysilvestre/linux-admin-scripts/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 Linux administration scripts and runbooks (backup, monitoring, maintenance, and networking).
 
 ## Why
