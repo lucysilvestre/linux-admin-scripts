@@ -1,13 +1,16 @@
-# Editors
+# Logs
+*.log
+/var/log/*
+
+# Temporary files
+*.tmp
 *.swp
-*.swo
+*~
+
+# Sensitive data
+*.csv
+data/*
+
+# System files
 .DS_Store
-
-# Archives
-*.tgz
-*.tar.gz
-*.zip
-
-# Local outputs
-/tmp/*
-backups/*
+Thumbs.db
